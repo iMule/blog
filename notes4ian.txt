@@ -1,0 +1,2 @@
+To activate myvenv:
+source myvenv/bin/activate
