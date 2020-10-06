@@ -1,3 +1,7 @@
+body {
+	max-width: 800px;
+	padding: 15px;
+}
 
 a {
     color: #FF8833;
@@ -8,12 +12,16 @@ a:hover{
     font-style: underline;
 }
 p, h1, h2 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Lato, Corbel, Arial, Helvetica, sans-serif;
     color: #FFFF36;
 }
 
-h1, h2 {
+h1 {
+	font-size: 1.3em;
+}
 
+h2 {
+	font-size: 1.05em;
 }
 
 
