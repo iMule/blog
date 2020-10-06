@@ -1,0 +1,21 @@
+
+a {
+    color: #FF8833;
+}
+
+a:hover{
+    color: #FF4412;
+    font-style: underline;
+}
+p, h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFF36;
+}
+
+h1, h2 {
+
+}
+
+
+
+
